@@ -11,7 +11,6 @@ $ns namtrace-all $namfile
 
 #define diffrent colors for data flows
 $ns color 0 blue
-$ns color 1 red
 
 #create 10 nodes
 set n0 [$ns node]
